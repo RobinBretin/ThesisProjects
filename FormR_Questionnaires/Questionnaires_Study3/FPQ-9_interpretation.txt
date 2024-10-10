@@ -1,0 +1,10 @@
+The final fear of pain score will be in a range from 9–45 indicating low to high fear of physical pain. Each subscale range from 3 to 15.
+
+
+Severe Pain = SUM(Q1,Q6,Q9)
+Minor Pain = SUM(Q3,Q5,Q7)
+Medical Pain = SUM(Q2,Q4,Q8)
+Total Score = SUM(Q1:Q9)
+
+
+D.w. McNeil, S.g. Kennedy, C.l. Randall, S.h. Addicks, C.d. Wright, K.g. Hursey, and R. Vaglienti. 2018. Fear of Pain Questionnaire-9: Brief assessment of pain-related fear and anxiety. European Journal of Pain 22, 1: 39–48. https://doi.org/10.1002/ejp.1074

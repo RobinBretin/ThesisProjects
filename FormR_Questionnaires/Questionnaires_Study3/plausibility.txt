@@ -1,0 +1,3 @@
+Mean of the sum -> Plausibility Illusion Questionnaire
+
+Richard Skarbez, Frederick P. Brooks, and Mary C. Whitton. 2018. Immersion and coherence in a stressful virtual environment. In Proceedings of the 24th ACM Symposium on Virtual Reality Software and Technology, 1–11. https://doi.org/10.1145/3281505.3281530

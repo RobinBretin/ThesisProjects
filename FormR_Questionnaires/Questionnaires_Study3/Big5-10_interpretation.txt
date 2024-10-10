@@ -1,0 +1,12 @@
+R = item is reverse‐scored. So RQ1 = 6-Q1.
+
+Extraversion = SUM(RQ1, Q5)
+Agreeableness = SUM (Q2, RQ7)
+Conscientiousness = SUM(RQ3,Q8)
+Neuroticism = SUM(RQ4, Q9)
+Openness to Experience = SUM(RQ5, Q10) 
+
+
+Rammstedt, B. & John, O. P. (2007). Measuring personality in one minute or less:
+A 10 item short version of the Big Five Inventory in English and German. Journal of Research in
+Personality, 41, 203‐212

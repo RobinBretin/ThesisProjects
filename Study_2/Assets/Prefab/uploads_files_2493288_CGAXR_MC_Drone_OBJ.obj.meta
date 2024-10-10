@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: d3a2c3fbbd05b324ea8e6246e0c48d50
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Camera7_CGAXR_MC_Drone_LowMat
+    second: {fileID: 2100000, guid: f86ad72804308ec42b6c14e5b55c29f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Back_LightMat
+    second: {fileID: 2100000, guid: 3901549082472634090e5cb1296ce9b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_BodyMat
+    second: {fileID: 2100000, guid: dc96426c0ddf852499885d5ea8b7bdbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Botom_0Mat
+    second: {fileID: 2100000, guid: adcb1fec8bb82a247b65eaae99d3f93d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_10Mat
+    second: {fileID: 2100000, guid: edfbe9973461c7f4baba333767559e1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_117Mat
+    second: {fileID: 2100000, guid: ad3b9f23bd19bbd43b21723949f07736, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_118Mat
+    second: {fileID: 2100000, guid: edcb8f161312d48438a9c871cb2a009b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_11Mat
+    second: {fileID: 2100000, guid: 9b63010ebdd1b3b4896ee797c7cf5272, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_12Mat
+    second: {fileID: 2100000, guid: 350a816afc7cfd047a34d735bc3ce5fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_13Mat
+    second: {fileID: 2100000, guid: 0d7d831ebaebf784eba2375d3aba49d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_14Mat
+    second: {fileID: 2100000, guid: a39e7f8398095154ab8fdd849f358ef9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_20Mat
+    second: {fileID: 2100000, guid: fe1bf6f3717c12348893f40cdf8bbdd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_37Mat
+    second: {fileID: 2100000, guid: d32e3f520f000ec4c95a07b812be7123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_38Mat
+    second: {fileID: 2100000, guid: 85f38e40386a01c419aeceb7bb4aa868, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_43Mat
+    second: {fileID: 2100000, guid: 0d064d6b6eef30f41a467be1273d219a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_9Mat
+    second: {fileID: 2100000, guid: 1a85e8c166d822f469d128388c34c58d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_Camera10Mat
+    second: {fileID: 2100000, guid: 4445a78ca86e83f438d46769197cc60c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_Camera11Mat
+    second: {fileID: 2100000, guid: 5ccfe8c62eb20dd489dc205e0e467aab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_Camera12Mat
+    second: {fileID: 2100000, guid: 2c6e23555553851449fa541de8870952, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_Camera13Mat
+    second: {fileID: 2100000, guid: ae7bbfe0dcef7914f969b2d6eaffd404, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_Camera14Mat
+    second: {fileID: 2100000, guid: 610546b9e1e24854780738f7ef39c460, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_Camera1Mat
+    second: {fileID: 2100000, guid: c1498cda0057a074d8a963e5de8ae3ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_Camera2Mat
+    second: {fileID: 2100000, guid: 10bba22a1566d464a9d42e426c57eed1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_Camera3Mat
+    second: {fileID: 2100000, guid: c261ccb041b537b4ca5c081530468fa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_Camera4Mat
+    second: {fileID: 2100000, guid: 35503e6c4adb5c24d93876ca4d1f7375, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_Camera5Mat
+    second: {fileID: 2100000, guid: 004213670da07544785e49a8e2935b4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_Camera6Mat
+    second: {fileID: 2100000, guid: 1777e03edb8e11d4f87df9cb84daafd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_Camera8Mat
+    second: {fileID: 2100000, guid: de48dc5316719eb4499f30bfc9bf863c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_Camera9Mat
+    second: {fileID: 2100000, guid: 79c6dfe9e5d71c74898540c8fe4a4643, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Drone_CameraMat
+    second: {fileID: 2100000, guid: 28aa9d2cd031d864d858f60c2ec545cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Fan1Mat
+    second: {fileID: 2100000, guid: a97ff5129661eaa4dace809ba23c5bf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Fan2Mat
+    second: {fileID: 2100000, guid: 281031a8b50d3574f8fef54e096a5da9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Fan3Mat
+    second: {fileID: 2100000, guid: f84091e872b7d30499fe76a843c8a3b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_FanMat
+    second: {fileID: 2100000, guid: 4d51a687b5219d5478608a1ce70f55f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Fan_topMat
+    second: {fileID: 2100000, guid: 0b49856704b10154fbb647356bf26815, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Light_0Mat
+    second: {fileID: 2100000, guid: 9e4a010363e44204eaa85ec109ecbc1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_LogoMat
+    second: {fileID: 2100000, guid: f6aa747f35d93f144b2b4e303798ada2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Logo_bassMat
+    second: {fileID: 2100000, guid: 9433938eb4431cb46aaf3c70823e45c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_MoterMat
+    second: {fileID: 2100000, guid: 8e27341a16fe33c43b8a1666e5e3ba12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Moter_CoilMat
+    second: {fileID: 2100000, guid: c1e15516060558140b9726705f388822, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Shockabsorber4Mat
+    second: {fileID: 2100000, guid: b3b1341baabd5f044a5dc466abe2121e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_StandMat
+    second: {fileID: 2100000, guid: ce23a0ac17a4f37449634b5caed0aeea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CGAXR_MC_Drone_Low_CGAXR_MC_Top_lightMat
+    second: {fileID: 2100000, guid: dd70d5819c328d342871c7e18401fc5e, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

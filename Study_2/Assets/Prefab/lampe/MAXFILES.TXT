@@ -1,0 +1,6 @@
+﻿C:\t$m$p$$$\Lampe_Gras.max
+C:\t$m$p$$$\MAXFILES.TXT
+E:\Yura work\Interior_assets\sceneassets\images\Lampe Gras N302.tif
+E:\Yura work\Interior_assets\sceneassets\images\bump_3.tif
+E:\Yura work\Interior_assets\sceneassets\images\Fiber_color_2.tif
+E:\Yura work\Interior_assets\sceneassets\images\Fiber.jpg

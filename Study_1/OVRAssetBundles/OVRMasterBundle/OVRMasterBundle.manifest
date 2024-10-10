@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3940822355
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: asset_resources
+      Dependencies: {}
+    Info_1:
+      Name: scene_scene_texture_1.0
+      Dependencies:
+        Dependency_0: asset_mat0
+        Dependency_1: asset_prefab0
+        Dependency_2: asset_lighting0
+    Info_2:
+      Name: asset_mat0
+      Dependencies:
+        Dependency_0: asset_png0
+        Dependency_1: asset_tga0
+        Dependency_2: asset_jpg0
+    Info_3:
+      Name: asset_prefab0
+      Dependencies:
+        Dependency_0: asset_mat0
+        Dependency_1: asset_controller0
+        Dependency_2: asset_obj0
+    Info_4:
+      Name: asset_png0
+      Dependencies: {}
+    Info_5:
+      Name: asset_tga0
+      Dependencies: {}
+    Info_6:
+      Name: asset_anim0
+      Dependencies: {}
+    Info_7:
+      Name: asset_controller0
+      Dependencies:
+        Dependency_0: asset_anim0
+    Info_8:
+      Name: asset_obj0
+      Dependencies: {}
+    Info_9:
+      Name: asset_lighting0
+      Dependencies: {}
+    Info_10:
+      Name: asset_jpg0
+      Dependencies: {}

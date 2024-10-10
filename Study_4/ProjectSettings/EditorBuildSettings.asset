@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Training.unity
+    guid: f7d7b045fc5a8be4db68f9a6ae35347f
+  - enabled: 1
+    path: Assets/Explosion_normal - Copy.unity
+    guid: 9d0508858a0665144a22e37aba7ea67e
+  - enabled: 1
+    path: Assets/Explosion_compet - Copy.unity
+    guid: 67d1d0dec28668046b636b3784fc5b35
+  m_configObjects:
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: 1765607b5dbb00f488adc16ad7bf0907, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a820b9e7704a2d84181f644d4c09700a, type: 2}

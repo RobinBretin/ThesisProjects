@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3801384436
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 593887e1aaee7af17dd16b3cbc29131d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Materials/download.jpg
+- Assets/Materials/66366683-plastic-grille-with-round-holes-garden-decoration.jpg
+Dependencies: []

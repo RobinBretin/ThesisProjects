@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Plugins/RootMotion/FinalIK/_DEMOS/VRIK/VRIK (Basic Head & Hands
+      Calibration).unity
+    guid: 514dd711a487d2d47a1f009108e1c04a
+  - enabled: 0
+    path: Assets/VRIK-Oculus/VRIK (Oculus).unity
+    guid: 6b52278c9dd25814c9f5248ad522a1fd
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Oculus/VR/Scenes/HandTest_Custom.unity
+    guid: c884d076d6398b54492bcc64bbe30bf5
+  - enabled: 0
+    path: Assets/MB_test.unity
+    guid: f282eb2d8efcd3840ad151bcfdbf15fb
+  - enabled: 0
+    path: Assets/Woman.unity
+    guid: 1ca5b153c33bc114991d0e49d118eab8
+  - enabled: 1
+    path: Assets/MB_test_2.unity
+    guid: 543d8340a007ae74099de4443b184fd6
+  - enabled: 0
+    path: Assets/Oculus/SampleFramework/Usage/DistanceGrab.unity
+    guid: 24f58b3f0ca02d44eaec7f50bca538f2
+  - enabled: 0
+    path: Assets/Oculus/SampleFramework/Usage/HandsInteractionTrainScene.unity
+    guid: a9c41884ef0c347628dfd8a4af4a022e
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a746e0f169e793042b0696baca94c2a0, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3c1902432c422f947a0e51e84fdea24d, type: 2}

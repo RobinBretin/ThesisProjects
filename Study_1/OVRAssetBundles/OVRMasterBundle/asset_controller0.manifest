@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3072800600
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04a60615d08b41dff9beb15e6a5605a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animation/DroneController.controller
+- Assets/Animation/droneParent.controller
+Dependencies:
+- C:/Users/robin/oculus_bricolage/OVRAssetBundles/OVRMasterBundle/asset_anim0

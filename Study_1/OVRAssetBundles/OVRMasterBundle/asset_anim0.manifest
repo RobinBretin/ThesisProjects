@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 371214062
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 906ea205091c514c08a86448573c346d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animation/Eye_level.anim
+- Assets/Animation/Land 1.anim
+- Assets/Animation/Below_Eyes.anim
+- Assets/Animation/Stationnary.anim
+- Assets/Animation/Land 2.anim
+- Assets/Animation/Above_Eyes.anim
+- Assets/Animation/Land.anim
+Dependencies: []

@@ -1,0 +1,19 @@
+{
+    "name": "SoundXR.Spatializer.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:af8397095d36ec64e9d26eadc92b3e44",
+        "GUID:bdee4a0b89d9d55468ef72cb2fad3b81"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

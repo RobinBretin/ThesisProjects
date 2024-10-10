@@ -1,0 +1,18 @@
+{
+    "name": "SoundXR.Examples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:af8397095d36ec64e9d26eadc92b3e44",
+        "GUID:bdee4a0b89d9d55468ef72cb2fad3b81",
+        "GUID:a196ce991ebe0df40a6d1c6d762cd6c9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

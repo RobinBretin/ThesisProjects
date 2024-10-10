@@ -1,0 +1,16 @@
+we use the following third party software;
+
+--------------------------------
+Unity NativeAudioPlugins
+--------------------------------
+version : 0x010402
+url : https://github.com/Unity-Technologies/NativeAudioPlugins
+licenses : MIT (https://choosealicense.com/licenses/mit/)
+
+applies to:
+../Effect/Spatializer/Plugins/Android/libs/arm64-v8a/libAudioPluginSoundxR.so
+../Effect/Spatializer/Plugins/Android/libs/armeabi-v7a/libAudioPluginSoundxR.so
+../Effect/Spatializer/Plugins/AudioPluginSoundxR.bundle
+../Effect/Spatializer/Plugins/iOS/libAudioPluginSoundxR.a
+../Effect/Spatializer/Plugins/x86/AudioPluginSoundxR.dll
+../Effect/Spatializer/Plugins/x86_64/AudioPluginSoundxR.dll

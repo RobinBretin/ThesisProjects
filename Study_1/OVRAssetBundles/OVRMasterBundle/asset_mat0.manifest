@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 448125504
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab6fd7fdebc73086b15dec56d6d16e90
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Materials/drone.mat
+- Assets/Oculus/VR/Materials/BasicHandMaterial.mat
+- Assets/Materials/rideaux.mat
+- Assets/Materials/glassblur.mat
+- Assets/Materials/lightpan.mat
+- Assets/Materials/cadre 2.mat
+- Assets/Materials/door 1.mat
+- Assets/Materials/New Material 2.mat
+- Assets/Metal textures pack/pattern 25/Metal pattern 25.mat
+- Assets/Materials/intersticeWindow.mat
+- Assets/Materials/grille 1.mat
+- Assets/Materials/Yughues Fabric Materials/Carpet 01/Carpet pattern 01.mat
+- Assets/Materials/cadre.mat
+- Assets/Materials/New Material 1.mat
+- Assets/Materials/ground.mat
+- Assets/Materials/light.mat
+- Assets/Metal textures pack/pattern 22/Metal pattern 22.mat
+- Assets/Materials/cadre 1.mat
+- Assets/Materials/classicpan.mat
+- Assets/Materials/Yughues Fabric Materials/Carpet 04/Carpet pattern 04.mat
+- Assets/Materials/grille.mat
+- Assets/Materials/door.mat
+- Assets/Materials/glass.mat
+Dependencies:
+- C:/Users/robin/oculus_bricolage/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/robin/oculus_bricolage/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/robin/oculus_bricolage/OVRAssetBundles/OVRMasterBundle/asset_tga0

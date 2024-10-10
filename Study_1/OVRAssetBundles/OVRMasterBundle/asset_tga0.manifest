@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 624206645
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef604db26b2cab05720ea2e8ccf31993
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Metal textures pack/pattern 22/diffuse.tga
+- Assets/Materials/Yughues Fabric Materials/Carpet 05/normal.tga
+- Assets/Metal textures pack/pattern 22/normal.tga
+- Assets/Materials/Yughues Fabric Materials/Carpet 01/diffuse.tga
+- Assets/Metal textures pack/pattern 25/diffuse.tga
+- Assets/Materials/Yughues Fabric Materials/Carpet 06/normal.tga
+- Assets/Materials/Yughues Fabric Materials/Carpet 04/normal.tga
+- Assets/Metal textures pack/pattern 06/normal.tga
+- Assets/Materials/Yughues Fabric Materials/Carpet 01/normal.tga
+- Assets/Materials/Yughues Fabric Materials/Carpet 04/diffuse.tga
+- Assets/Metal textures pack/pattern 25/normal.tga
+Dependencies: []
